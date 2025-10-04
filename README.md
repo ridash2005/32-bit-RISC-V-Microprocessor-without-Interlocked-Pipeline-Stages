@@ -1,4 +1,4 @@
-# 32-bit RISC-V Microprocessor without Interlocked Pipeline Stages
+# 32-bit RISC-V Microprocessor 
 
 ## Overview
 This repository contains the Verilog implementation of a simplified 32-bit RISC-V microprocessor that omits interlocked pipeline stages. The design targets education and experimentation with basic RISC-V architecture concepts, focusing on a clean, modular CPU design without hardware interlocking for pipeline hazards.
